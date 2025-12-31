@@ -1,0 +1,21 @@
+# Object Detection (YOLOv8)
+
+ultralytics
+cvzone==1.5.6
+
+opencv-python-headless>=4.8.0
+numpy>=1.23
+matplotlib>=3.7
+Pillow>=9.0
+PyYAML>=6.0
+requests>=2.28
+scipy>=1.9
+tqdm>=4.64
+
+torch
+torchvision
+
+filterpy
+scikit-image
+lap
+hydra-core>=1.2.0
