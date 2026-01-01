@@ -124,6 +124,11 @@ AI-based occupational safety solutions
 🎯 Model optimization for edge devices
 
 📹 Multi-camera support
+<img width="1078" height="847" alt="pro1" src="https://github.com/user-attachments/assets/dd03e66b-9e7a-432e-9a9c-cef018a8d016" />
+
+<img width="961" height="770" alt="Screenshot 2026-01-01 003755" src="https://github.com/user-attachments/assets/9376acbf-e0ae-41b2-aa3a-d266970c5ce4" />
+
+
 
 👨‍💻 Author
 
